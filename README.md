@@ -1,0 +1,13 @@
+# AI_data
+Data de prueba para proyecto de Inteligencia Artificial.
+
+
+Requerimientos
+
+numpy==1.16.4
+tensorflow-gpu==1.13.1
+Keras==2.2.4
+nibabel==2.4.0
+matplotlib==3.0.3
+batchgenerators==0.19.3
+miscnn
